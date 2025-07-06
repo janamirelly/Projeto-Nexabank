@@ -54,7 +54,7 @@ nexa-bank/
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/janamirelly/Projeto-NexaBank.git
+git clone https://github.com/janamirelly/Projeto-Nexabank.git
 
 🎯 Objetivo
 Este projeto foi desenvolvido como prática de front-end para exercitar conceitos de HTML semântico, CSS responsivo com Flexbox e validação de formulários com JavaScript. Ele simula a página principal de um banco digital moderno e responsivo.
