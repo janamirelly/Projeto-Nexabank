@@ -6,6 +6,6 @@
 
 <p align="center">
   👉 <a href="https://janamirelly.github.io/Projeto-Nexabank/" target="_blank">
-    Clique aqui para ver o projeto no navegador
+    Clique na imagem para ver o projeto no navegador
   </a>
 </p>
